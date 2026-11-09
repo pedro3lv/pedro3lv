@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f3a5f&height=180&section=header&text=Pedro%20Henrique%20de%20Oliveira&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Dados%20%E2%80%A2%20IA&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=4F8CC9&center=true&vCenter=true&width=600&lines=Aplica%C3%A7%C3%B5es+completas%2C+do+banco+%C3%A0+interface;Sites+e+cat%C3%A1logos+para+pequenos+neg%C3%B3cios;Desenvolvimento+com+agentes+de+IA" />
-
 <a href="mailto:pedro.particular01@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pedrop-c/"><img src="https://img.shields.io/badge/LinkedIn-1f3a5f?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://helenlash.vercel.app"><img src="https://img.shields.io/badge/Projeto%20no%20ar-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
