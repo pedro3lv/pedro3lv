@@ -12,11 +12,6 @@
 
 Estudante de **Ciência da Computação na UVA** e **estagiário de TI na Câmara Municipal do Rio de Janeiro**, onde desenvolvo aplicações completas: modelagem de dados, backend e frontend. Fora da Câmara, desenvolvo **sites e sistemas para clientes como freelancer**, do planejamento à publicação.
 
-- ⚙️ Desenvolvo aplicações completas, do banco de dados à interface
-- 🌐 Crio sites e catálogos mobile-first para pequenos negócios, com contato direto pelo WhatsApp
-- 🤖 Uso IA no processo de desenvolvimento, com agentes separados para planejar, codar, revisar e testar
-- 📚 Sempre aprendendo: cursos, leitura e networking
-
 ## 🛠 Tecnologias
 
 <div align="center">
